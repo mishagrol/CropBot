@@ -1,0 +1,13 @@
+{"user_id" : "tiv92@yandex.ru",
+	"field_name" : "Krym",
+	"coordinates" : {"longitude":102.7445850518002,"latitude":53.51500057289551},
+	"crop_name" : "пшеница",
+	"sowing_date": "01.05.2021",
+	"harvesting_date": "31.07.2021",
+	"npk_dates": ["15.05.2021","10.06.2021"],
+	"npk_kg": [["200","100","100"],["200","100","100"]],
+	"irrigation_dates": ["10.06.2021","30.06.2021","10.07.2021"],
+	"irrigation_cm": [1, 1, 1],
+	"organic_matter": "2",
+	"sand": "40",
+	"clay": "60"}

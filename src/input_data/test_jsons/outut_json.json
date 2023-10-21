@@ -1,0 +1,17 @@
+{
+    "user_id": "user_4",
+    "field_name": "Гаврилово",
+    "incomes": [
+        {
+            "crop_name": "картофель",
+            "crop_yield_kg_ha": 11862.37,
+            "income_per_ga": 149145.58,
+            "sowing_date": "2021-04-30",
+            "harvesting_date": "2021-08-07",
+            "optimal_irrigation_dates": [
+                "2021-07-10",
+                "2021-06-30"
+            ]
+        }
+    ]
+}

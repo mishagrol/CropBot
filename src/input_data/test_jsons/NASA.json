@@ -1,0 +1,18 @@
+{
+    "user_id": "tiv92@yandex.ru",
+    "field_name": "Krym",
+    "incomes": [
+        {
+            "crop_name": "пшеница",
+            "crop_yield_kg_ha": 6134.29,
+            "income_per_ga": 86763.37,
+            "sowing_date": "2021-04-02",
+            "harvesting_date": "2021-07-10",
+            "optimal_irrigation_dates": [
+                "2021-08-02",
+                "2021-06-27",
+                "2021-06-27"
+            ]
+        }
+    ]
+}

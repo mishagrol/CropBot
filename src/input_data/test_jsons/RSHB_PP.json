@@ -1,0 +1,17 @@
+{
+    "user_id": "tiv92@yandex.ru",
+    "field_name": "Krym",
+    "incomes": [
+        {
+            "crop_name": "\u043f\u0448\u0435\u043d\u0438\u0446\u0430",
+            "income_per_ga": 100473.97,
+            "sowing_date": "2021-04-09",
+            "harvesting_date": "2021-07-17",
+            "optimal_irrigation_dates": [
+                "2021-07-27",
+                "2021-06-16",
+                "2021-06-19"
+            ]
+        }
+    ]
+}

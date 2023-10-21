@@ -1,0 +1,13 @@
+{"user_id" : "user_121212121",
+    "field_name" : "Гаврилово",
+    "coordinates" : {"longitude":"55.23232323", "latitude":"31.123121212"},
+    "crop_name" : "картофель",
+    "sowing_date": "12.05.2020",
+    "harvesting_date": "15.09.2020",
+    "npk_dates": ["07.06.2020", "10.07.2020"],
+    "npk_kg": [[125,40,50], [150,30,50]],
+    "irrigation_dates": ["09.06.2020", "15.07.2020"],
+    "irrigation_cm": [3, 4],
+    "organic_matter": "2",
+    "sand": "35",
+    "clay": "20"}

@@ -1,0 +1,12 @@
+{
+    "name": "my sugar field",
+    "latitude": 51.970,
+    "longitude": 5.67,
+    "crop_start": "2020-04-05",
+    "crop_end": "2020-10-20",
+    "crop_name": "sugarbeet",
+    "irrigation_events": [],
+    "irrigation_ammounts": [],
+    "npk_events": [],
+    "npk": []
+}
