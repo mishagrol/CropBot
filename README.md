@@ -1,7 +1,5 @@
 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 <h1 align="center">
   <br>
   <a href="http://www.amitmerchant.com/electron-markdownify"><img src="src/img/rm.png" alt="Markdownify" width="200"></a>
@@ -26,6 +24,10 @@
     <img src="https://img.shields.io/github/license/mishagrol/CropBot?style=plastic" alt="License">
 </a>
 
+
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=plastic)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
 <p align="center">
