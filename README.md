@@ -18,6 +18,9 @@
     <img src="https://img.shields.io/github/issues/mishagrol/CropBot" alt="Issues">
 </a>
 
+<a href="https://github.com/mishagrol/CropBot/blob/main/README.md" target="#contributors-">
+    <img src="https://img.shields.io/badge/all_contributors-4-orange.svg?style=plastic" alt="Contributors">
+</a>
 
 
 <a href="https://github.com/mishagrol/CropBot/blob/main/LICENSE" target="_blank">
@@ -26,7 +29,7 @@
 
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=plastic)](#contributors-)
+<!-- [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=plastic)](#contributors-) -->
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
