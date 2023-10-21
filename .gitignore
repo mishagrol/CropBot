@@ -11,6 +11,7 @@ __pycache__/
 token.json
 
 results/
+data/
 
 # Distribution / packaging
 .Python
@@ -39,9 +40,7 @@ MANIFEST
 *.manifest
 *.spec
 
-# data
 
-data/NASA_CSV
 
 # Installer logs
 pip-log.txt
